@@ -1,6 +1,6 @@
 Hey !
 
-Moi, c'est Jonathan Isambourg.
+Je m'appelle Jonathan Isambourg.
 
 J'étudie actuellement à l'IUT de Lens où j'y fais ma 2ème année de BUT Informatique.
 
