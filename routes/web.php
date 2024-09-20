@@ -15,15 +15,68 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', [ProjetController::class, 'view'])->name('projet.index');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 
-Route::resource('projets', ProjetController::class);
+Route::get('/', function () {
+    return view('welcome');
+})->name('home');
 
+Route::get('/accueil', function () {
+    return redirect()->route('home');
+});
 
+Route::get('/a_propos', function () {
+    return view('a_propos');
+});
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/projects', function () {
+    return view('projects');
+});
+
+Route::get('/competences', function () {
+    return view('competences');
+});
+
+Route::get('/experiences', function () {
+    return view('experiences');
+});
+
+Route::get('/formations', function () {
+    return view('formations');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::get('/cv', function () {
+    return view('cv');
+});
+
+Route::get('/boids', function () {
+    return view('boids');
+});
+
+Route::get('/projects/chronos', function () {
+    return view('chronos');
+});
+
+Route::get('/projects/boids', function () {
+    return view('boids');
+});
+
+Route::get('/projects/marathon', function () {
+    return view('marathon');
+});
+
+Route::get('/projects/fractales', function () {
+    return view('fractales');
+});
+
+Route::get('/mobile', function () {
+    return view('mobile');
+})->name('mobile');

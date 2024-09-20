@@ -38,7 +38,7 @@ class DatabaseSeeder extends Seeder
         $projet = new Projet();
         $projet->nom = "Réalisation d'un portfolio";
         $projet->description = "Afin de montrer mes compétences et mes projets, j'ai choisi de programmer ce Portfolio en utilisant Laravel et Bootstrap.";
-        $projet->image = "storage/projets/photo_cv.jpg";
+        $projet->image = "storage/projets/photo-cv.png";
         $projet->save();
 
         $projet = Projet::where('nom', "Réalisation d'un portfolio")->first();
