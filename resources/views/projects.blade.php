@@ -15,10 +15,10 @@
                                 <ul class="splide__list">
                                     <li class="splide__slide">
                                         <div class="skill-slide">
-                                            <img class="img-fluid img-carousel w-100" src="{{asset("projets/boids/header.png")}}" alt="Particules" width=200 height=200></img>
-                                            <p class="lead bold">Animation de particules</p>
+                                            <img class="img-fluid img-carousel w-100" src="{{asset("projets/boids/header.png")}}" alt="Particules" width=200 height=200>
+                                            <p class="lead bold project-label">Animation de particules</p>
                                             <div class="mb-sm-3">
-                                                <span class="badge bg-info">C</span>
+                                                <span class="badge bg-info tech-label">C</span>
                                             </div>
                                             <p class="project-description d-flex justify-content-center align-items-center">Développement d'un moteur d'animation de particules de type 'Boids'.</p>
                                             <a class="background-yellow text-decoration-none link-custom object-fit-contain w-100 bold" href="{{url('projects/boids')}}">
@@ -28,11 +28,11 @@
                                     </li>
                                     <li class="splide__slide">
                                         <div class="text-center">
-                                            <img class="img-fluid img-carousel w-100" src="{{asset("projets/chronos/calendar.png")}}" alt=""></img>
-                                            <p class="lead bold">Chronos</p>
+                                            <img class="img-fluid img-carousel w-100" src="{{asset("projets/chronos/calendar.png")}}" alt="Calendrier de l'application Chronos">
+                                            <p class="lead bold project-label">Chronos</p>
                                             <div class="mb-sm-3">
-                                                <span class="badge bg-primary">React</span>
-                                                <span class="badge bg-success">SQL</span>
+                                                <span class="badge bg-primary tech-label">React</span>
+                                                <span class="badge bg-success tech-label">SQL</span>
                                             </div>
                                             <p class="project-description d-flex justify-content-center align-items-center">Développement d'une application de gestion scolaire.</p>
                                             <a class="background-yellow text-decoration-none link-custom object-fit-contain w-100 bold" href="{{url('projects/chronos')}}">
@@ -42,11 +42,11 @@
                                     </li>
                                     <li class="splide__slide">
                                         <div class="text-center">
-                                            <img class="img-fluid img-carousel w-100" src="{{asset("projets/marathon/header.jpg")}}" alt="" height=80></img>
-                                            <p class="lead bold">Musée virtuel</p>
+                                            <img class="img-fluid img-carousel w-100" src="{{asset("projets/marathon/header.jpg")}}" alt="Header de l'application du marathon web" height=80>
+                                            <p class="lead bold project-label">Musée virtuel</p>
                                             <div class="mb-sm-3">
-                                                <span class="badge bg-blue">PHP</span>
-                                                <span class="badge bg-red">Laravel</span>
+                                                <span class="badge bg-blue tech-label">PHP</span>
+                                                <span class="badge bg-red tech-label">Laravel</span>
                                             </div>
                                             <p class="project-description d-flex justify-content-center align-items-center">Création d'un musée virtuel en 48h.</p>
                                             <a class="background-yellow text-decoration-none link-custom object-fit-contain w-100 bold" href="{{url('projects/marathon')}}">
@@ -56,10 +56,10 @@
                                     </li>
                                     <li class="splide__slide">
                                         <div class="text-center">
-                                            <img class="img-fluid img-carousel w-100" src="{{asset("projets/fractales/julia2.png")}}" alt="Piano" width=200 height=200></img>
-                                            <p class="lead bold">Générateur d'images</p>
+                                            <img class="img-fluid img-carousel w-100" src="{{asset("projets/fractales/julia2.png")}}" alt="Image de la fractale de Julia" width=200 height=200>
+                                            <p class="lead bold project-label">Générateur d'images</p>
                                             <div class="mb-sm-3">
-                                                <span class="badge bg-warning">Java</span>
+                                                <span class="badge bg-warning tech-label">Java</span>
                                             </div>
                                             <p class="project-description d-flex justify-content-center align-items-center">Développement d'un générateur de fractales.</p>
                                             <a class="background-yellow text-decoration-none link-custom object-fit-contain w-100 bold" href="{{url('projects/fractales')}}">

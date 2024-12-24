@@ -11,6 +11,14 @@
                     <div class="timeline-item">
                         <div class="dot"></div>
                         <div class="timeline-content">
+                            <p class="formation-title background-yellow bold">École d'ingénieur - INSA Hauts-de-France - 59300</p>
+                            <span class="badge formation-date">Septembre 2024 - Aujourd'hui</span>
+                            <p>1ère année<br>Ingénieur informatique</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="dot"></div>
+                        <div class="timeline-content">
                             <p class="formation-title background-yellow bold">BUT Informatique - IUT de Marne-La-Vallée - 77200</p>
                             <span class="badge formation-date">Septembre 2023 - Aujourd'hui</span>
                             <p>3ème année<br>Parcours Réalisation d'applications : conception, développement, validation</p>

@@ -7,9 +7,9 @@
                 <div class="row">
                     <h1 class="title">Compétences</h1>
                 </div>
-                <div class="container-fluid">
+                <div class="container-fluid skill-container">
                     <div class="row">
-                        <section class="mb-5">
+                        <section class="mb-5 skill-section">
                             <h2>Languages</h2>
                             <section id="splide" class="splide" aria-label="Splide Basic HTML Example">
                                 <div class="splide__track">
@@ -60,7 +60,7 @@
                                 </div>
                             </section>
                         </section>
-                        <section class="mb-5">
+                        <section class="mb-5 skill-section">
                             <h2>Outils et plateformes</h2>
                             <section id="splide2" class="splide">
                                 <div class="splide__track">
@@ -97,7 +97,7 @@
                                 </div>
                             </section>
                         </section>
-                        <section class="mb-5">
+                        <section class="mb-5 skill-section">
                             <h2>Soft skills</h2>
                             <section id="splide3" class="splide" aria-label="Splide Basic HTML Example">
                                 <div class="splide__track">
