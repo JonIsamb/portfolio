@@ -19,12 +19,12 @@
                         </div>
                         <div class="contact row mb-5">
                             <p>LinkedIn : <a class="text-decoration-none text-dark" href="https://www.linkedin.com/in/jonathan-isambourg/" target="_blank">
-                                            <img class="img-fluid" src="{{asset("icons/linkedin-original.svg")}}" alt="Logo de LinkedIn" width=30>
+                                            <img class="img-fluid" src="{{asset("assets/linkedin-original.svg")}}" alt="Logo de LinkedIn" width=30>
                                         </a></p>
                         </div>
                         <div class="contact row">
                             <p>GitHub : <a class="text-decoration-none text-dark" href="https://github.com/JonIsamb?tab=repositories">
-                                        <img class="img-fluid" src="{{asset("icons/github.svg")}}" alt="Logo de GitHub" width=30>
+                                        <img class="img-fluid" src="{{asset("assets/github.svg")}}" alt="Logo de GitHub" width=30>
                                     </a></p>
                         </div>
                     </div>

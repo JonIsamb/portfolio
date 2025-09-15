@@ -24,15 +24,15 @@
 
                    <div class="row g-4 justify-content-center mb-5">
                        <div class="col-12 col-sm-4">
-                           <img class="img-fluid hobby-img" src="{{asset("icons/chess.jpg")}}" alt="Échecs">
+                           <img class="img-fluid hobby-img" src="{{asset("assets/chess.jpg")}}" alt="Échecs">
                            <p class="mt-2">Échecs</p>
                        </div>
                        <div class="col-12 col-sm-4">
-                           <img class="img-fluid hobby-img" src="{{asset("icons/badminton.jpg")}}" alt="Badminton">
+                           <img class="img-fluid hobby-img" src="{{asset("assets/badminton.jpg")}}" alt="Badminton">
                            <p class="mt-2">Badminton</p>
                        </div>
                        <div class="col-12 col-sm-4">
-                           <img class="img-fluid hobby-img" src="{{asset("icons/piano.jpg")}}" alt="Piano">
+                           <img class="img-fluid hobby-img" src="{{asset("assets/piano.jpg")}}" alt="Piano">
                            <p class="mt-2">Piano</p>
                        </div>
                    </div>
@@ -45,10 +45,10 @@
                    
                    <div class="d-flex justify-content-center gap-4 mb-4">
                        <a href="https://github.com/JonIsamb?tab=repositories" target="_blank" class="social-link">
-                           <img src="{{asset("icons/github.svg")}}" width=30 alt="GitHub">
+                           <img src="{{asset("assets/github.svg")}}" width=30 alt="GitHub">
                        </a>
                        <a href="https://www.linkedin.com/in/jonathan-isambourg/" target="_blank" class="social-link">
-                           <img src="{{asset("icons/linkedin-original.svg")}}" width=30 alt="LinkedIn">
+                           <img src="{{asset("assets/linkedin-original.svg")}}" width=30 alt="LinkedIn">
                        </a>
                    </div>
 

@@ -16,42 +16,42 @@
                                     <ul class="splide__list">
                                         <li class="splide__slide">
                                             <div class="skill-slide">
-                                                <img class="img-fluid language-image" src="{{asset("icons/php.png")}}" alt="PHP">
+                                                <img class="img-fluid language-image" src="{{asset("assets/php.png")}}" alt="PHP">
                                                 <p class="bold background-yellow skill-label">PHP</p>
                                                 <p class="skill-description">PHP est le langage dans lequel j'ai le plus de compétences, surtout avec le framework Laravel. J'ai l'occasion de l'utiliser dans un contexte professionnel via mon alternance.</p>
                                             </div>
                                         </li>
                                         <li class="splide__slide">
                                             <div class="text-center">
-                                                <img class="img-fluid language-image" src="{{asset("icons/python.png")}}" alt="Python">
+                                                <img class="img-fluid language-image" src="{{asset("assets/python.png")}}" alt="Python">
                                                 <p class="bold background-yellow skill-label">Python</p>
                                                 <p class="skill-description">Le premier langage de programmation que j'ai appris. Je l'ai principalement utilisé pour de l'algorithmie, mais aussi pour créer des applications en utilisant le framework Flask.</p>
                                             </div>
                                         </li>
                                         <li class="splide__slide">
                                             <div class="text-center">
-                                                <img class="img-fluid language-image" src="{{asset("icons/java.png")}}" alt="Java">
+                                                <img class="img-fluid language-image" src="{{asset("assets/java.png")}}" alt="Java">
                                                 <p class="bold background-yellow skill-label">Java</p>
                                                 <p class="skill-description">Durant mon parcours scolaire, j'ai pu réaliser des applications graphiques à l'aide du framework JavaFX.</p>
                                             </div>
                                         </li>
                                         <li class="splide__slide">
                                             <div class="text-center">
-                                                <img class="img-fluid language-image" src="{{asset("icons/c.svg.png")}}" alt="C">
+                                                <img class="img-fluid language-image" src="{{asset("assets/c.svg.png")}}" alt="C">
                                                 <p class="bold background-yellow skill-label">C</p>
                                                 <p class="skill-description">J'ai développé plusieurs projets en C, notamment un simulateur de particules et un compresseur d'images.</p>
                                             </div>
                                         </li>
                                         <li class="splide__slide">
                                             <div class="text-center">
-                                                <img class="img-fluid language-image" src="{{asset("icons/server.png")}}" alt="SQL">
+                                                <img class="img-fluid language-image" src="{{asset("assets/server.png")}}" alt="SQL">
                                                 <p class="bold background-yellow skill-label">SQL</p>
                                                 <p class="skill-description">Langage de programmation indispensable pour la gestion des données.</p>
                                             </div>
                                         </li>
                                         <li class="splide__slide">
                                             <div class="text-center">
-                                                <img class="img-fluid language-image" src="{{asset("icons/React-icon.svg.png")}}" alt="React">
+                                                <img class="img-fluid language-image" src="{{asset("assets/React-icon.svg.png")}}" alt="React">
                                                 <p class="bold background-yellow skill-label">React</p>
                                                 <p class="skill-description">J'ai découvert le language récemment, durant mon projet d'application de gestion scolaire.</p>
                                             </div>
@@ -67,28 +67,28 @@
                                     <ul class="splide__list">
                                         <li class="splide__slide">
                                             <div class="skill-slide">
-                                                <img class="img-fluid tools-image" src="{{asset("icons/git.png")}}" alt="PHP">
+                                                <img class="img-fluid tools-image" src="{{asset("assets/git.png")}}" alt="PHP">
                                                 <p class="bold background-yellow skill-label">Git & GitHub</p>
                                                 <p class="skill-description">Je maîtrise les outils de versioning dans un contexte professionnel.</p>
                                             </div>
                                         </li>
                                         <li class="splide__slide">
                                             <div class="text-center">
-                                                <img class="img-fluid tools-image" src="{{asset("icons/postman.svg")}}" alt="Postman">
+                                                <img class="img-fluid tools-image" src="{{asset("assets/postman.svg")}}" alt="Postman">
                                                 <p class="bold background-yellow skill-label">Postman</p>
                                                 <p class="skill-description">Je sais utiliser ce logiciel, notamment pour tester les API REST que je développe.</p>
                                             </div>
                                         </li>
                                         <li class="splide__slide">
                                             <div class="text-center">
-                                                <img class="img-fluid tools-image" src="{{asset("icons/linux.svg.png")}}" alt="Java">
+                                                <img class="img-fluid tools-image" src="{{asset("assets/linux.svg.png")}}" alt="Java">
                                                 <p class="bold background-yellow skill-label">Linux</p>
                                                 <p class="skill-description">J'utilise Linux dans un contexte professionnel mais aussi pour mes projets personnels.</p>
                                             </div>
                                         </li>
                                         <li class="splide__slide">
                                             <div class="text-center">
-                                                <img class="img-fluid tools-image" src="{{asset("icons/docker.png")}}" alt="Docker">
+                                                <img class="img-fluid tools-image" src="{{asset("assets/docker.png")}}" alt="Docker">
                                                 <p class="bold background-yellow skill-label">Docker</p>
                                                 <p class="skill-description">J'utilise Docker dans un contexte professionnel.</p>
                                             </div>
@@ -104,14 +104,14 @@
                                     <ul class="splide__list">
                                         <li class="splide__slide">
                                             <div class="skill-slide pt-2">
-                                                <img class="img-fluid soft-skills-image" src="{{asset("icons/france.png")}}" alt="PHP">
+                                                <img class="img-fluid soft-skills-image" src="{{asset("assets/france.png")}}" alt="PHP">
                                                 <p class="bold background-yellow skill-label">Français</p>
                                                 <p class="skill-description">Langue maternelle.</p>
                                             </div>
                                         </li>
                                         <li class="splide__slide">
                                             <div class="skill-slide pt-2">
-                                                <img class="img-fluid soft-skills-image" src="{{asset("icons/union-jack.jpg")}}" alt="Python">
+                                                <img class="img-fluid soft-skills-image" src="{{asset("assets/union-jack.jpg")}}" alt="Python">
                                                 <p class="bold background-yellow skill-label">Anglais</p>
                                                 <p class="skill-description">B2 - Certification Cambridge 2019.</p>
                                             </div>
