@@ -20,7 +20,7 @@
                         <div class="dot"></div>
                         <div class="timeline-content">
                             <p class="formation-title background-yellow bold">BUT Informatique - IUT de Marne-La-Vallée - 77200</p>
-                            <span class="badge formation-date">Septembre 2023 - Aout 2024</span>
+                            <span class="badge formation-date">Septembre 2023 - Août 2024</span>
                             <p>3ème année<br>Parcours Réalisation d'applications : conception, développement, validation</p>
                         </div>
                     </div>
