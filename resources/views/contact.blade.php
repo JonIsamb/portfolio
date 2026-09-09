@@ -10,7 +10,7 @@
                 <div class="row">
                     <div class="container w-50 contact-card">
                         <div class="contact row mb-5">
-                            <p>Email : <a class="text-decoration-none text-dark" href="mailto:jonathan@isambourg.me">jonathan.isambourg.me</a></p>
+                            <p>Email : <a class="text-decoration-none text-dark" href="mailto:jonathan.isambourg1@gmail.com">jonathan.isambourg1@gmail.com</a></p>
                         </div>
                         <div class="contact row mb-5">
                             <p>Téléphone : <a class="text-decoration-none text-dark" href="tel:+33768948375">
